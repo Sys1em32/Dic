@@ -1,0 +1,12 @@
+admin
+manager
+role1
+root
+tomcat
+both
+j2deployer
+j2deployer
+ovwebusr
+owaspbwa
+kdsxc
+root
